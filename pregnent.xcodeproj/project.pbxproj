@@ -12,6 +12,7 @@
 		DDA8C33620A510E700E8BC78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDA8C33420A510E700E8BC78 /* Main.storyboard */; };
 		DDA8C33820A510E900E8BC78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDA8C33720A510E900E8BC78 /* Assets.xcassets */; };
 		DDA8C33B20A510E900E8BC78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDA8C33920A510E900E8BC78 /* LaunchScreen.storyboard */; };
+		DDA8C34320A5111400E8BC78 /* pregnentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDA8C34220A5111400E8BC78 /* pregnentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DDA8C33720A510E900E8BC78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DDA8C33A20A510E900E8BC78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DDA8C33C20A510EA00E8BC78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDA8C34220A5111400E8BC78 /* pregnentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pregnentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DDA8C33020A510E700E8BC78 /* AppDelegate.swift */,
 				DDA8C33220A510E700E8BC78 /* ViewController.swift */,
 				DDA8C33420A510E700E8BC78 /* Main.storyboard */,
+				DDA8C34220A5111400E8BC78 /* pregnentViewController.swift */,
 				DDA8C33720A510E900E8BC78 /* Assets.xcassets */,
 				DDA8C33920A510E900E8BC78 /* LaunchScreen.storyboard */,
 				DDA8C33C20A510EA00E8BC78 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDA8C34320A5111400E8BC78 /* pregnentViewController.swift in Sources */,
 				DDA8C33320A510E700E8BC78 /* ViewController.swift in Sources */,
 				DDA8C33120A510E700E8BC78 /* AppDelegate.swift in Sources */,
 			);
